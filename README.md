@@ -26,3 +26,6 @@ Acessando o workspace:[https://devworkspace--appliancetheme.myvtex.com]
 
 Acessar o resultado do workspace
 ### vtex browse
+
+Ver steps:
+[https://lab.github.com/vtex-trainings/store-framework]
