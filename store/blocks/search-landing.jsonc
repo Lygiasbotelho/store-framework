@@ -1,0 +1,28 @@
+{
+    "store.custom#landing": {
+        "blocks": [
+            "image#landingbanner", 
+            "search-result-layout.customQuery"
+          ]
+    },
+    "image#landingbanner": {
+        "props": {
+            "src": "https://i.pinimg.com/originals/56/96/d8/5696d8acaef857618c4201a9efaf5619.jpg",
+            "minWidth": "100%"
+        }
+    },
+    "search-result-layout.customQuery": {
+        "props": {            
+            "querySchema": {
+                "orderByField": "OrderByReleaseDateDESC",
+                "hideUnavailableItems": true,
+                "maxItemsPerPage": 8,
+                "queryField": "Blue Top Retro Camera"
+            }
+        }
+    }
+}
+
+/*,
+ "src": "https://pm1.narvii.com/6440/d61fac5e594ee840b8c9b4083501237bae5bff6a_hq.jpg",
+            "minWidth": "100%",*/
